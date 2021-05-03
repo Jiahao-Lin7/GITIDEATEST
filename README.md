@@ -1,2 +1,2 @@
 # GITIDEATEST
-测试IDEA上Git分使用
+测试IDEA上Git使用
